@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "RPAD 507 - Integrative Capstone"
+  navbar:
+    background: secondary
+    left:
+      - text: "About"
+        file: index.qmd
+      - text: "Syllabus"
+        file: syllabus507.qmd
+        
+format:
+  html:
+    theme: 
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+
+editor: visual
+
