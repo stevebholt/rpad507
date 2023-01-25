@@ -63,7 +63,7 @@ The course grade consists of:
 
 |     Date     |               Assignment                | Readings |
 |:------------:|:---------------------------------------:|:--------:|
-|     4/28     |        Stakeholder Analysis Due         |          |
+|     2/28     |        Stakeholder Analysis Due         |          |
 |     3/6      |        Group Roles Contract Due         |          |
 |  3/7 or 3/9  |          First Group Check-In           |          |
 |     3/10     |    1-page outline of group appraoch     |          |
