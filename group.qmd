@@ -1,0 +1,18 @@
+---
+title: "Group Assignment"
+format: html
+editor: visual
+---
+
+## Overview
+
+As with the individual assignment, you are again taking on the role of Director of the Parks Department for Stratton Parks and you are again being directed by the County Executive to cut the budget by 10%. However, this time, you and your team are expected to prepare a complete report that provides the County Executive 3 alternative plans for cuts, an comparitive analysis of the 3 plans, and a final recommendation. You will draw on the same [Stratton County case](stratton.qmd) case details to inform and prepare your report. **For this assignment, you will prepare a report of no more than 15 pages providing background research on effectively managing budget cuts, preparing 3 budget proposals to accommodate the needed cuts, preparing a stakeholder analysis and engagement plan for each proposal, conducting a comparitive analysis, and making a final recommendation. The report and a video presentation summarizing the report will be due by May 4th, 2023.**
+
+:::{.callout-note}
+A reminder that by law, the County Executive must submit his or her budget recommendation to the County Legislature by August 15th, for review (including at least one public hearing) and adoption prior to the start of the new fiscal year on September 1st.
+:::
+
+## Details
+This section lays out the sections that should be included in your 15 page report plus a one-page executive summary, in order, with details on expectations for each section. Overall, the format should use APA citation formatting (for both in-text citations and references list), 12-point Times New Roman font, and single-spaced. The first page should be a cover sheet with a title and all group member names clearly printed.
+
+### Executive Summary
