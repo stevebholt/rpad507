@@ -7,7 +7,7 @@ title: "Syllabus"
 ## RPAD 507
 
 👨‍🏫: Stephen Holt, Ph.D.\
-📆: Asynchronous Online with Synchronous Check-Ins\
+📅: Asynchronous Online with Synchronous Check-Ins\
 📧: sbholt\@albany.edu\
 🏫: Tuesdays and Thursdays from 1:00 pm to 5:00 pm or by appointment - book [here](https://calendly.com/sbholt/30min); in-person in Milne 324 or online in [GatherTown](https://app.gather.town/app/REBbcSYb3BTtxRhY/ussalbany).[^1]\
 ☎️: 518-442-3309
@@ -41,7 +41,7 @@ As an individual, students will write a 6 page (single spaced, 12 point Times Ne
 
 ### Group Assignment
 
-The group assignment will have four deliverables: 1) a group roles contract (details will be provided on Brightspace) submitted for instructor review (due **March 6th**); 2) an outline of the group's approach to the case (due **March 10th**); 3) the final case study report (due **May 4th**); and 4) a group final presentation video, which can be done as a recorded Zoom with screenshare for slides and a polished presentation from all members (due **May 4th**).
+The group assignment will have four deliverables: 1) a group roles contract (details will be provided on Brightspace) submitted for instructor review (due **March 8th**); 2) an outline of the group's approach to the case (due **March 20th**); 3) the final case study report (due **May 4th**); and 4) a group final presentation video, which can be done as a recorded Zoom with screenshare for slides and a polished presentation from all members (due **May 4th**).
 
 ### Grading
 
@@ -63,12 +63,11 @@ The course grade consists of:
 
 |     Date     |               Assignment                | Readings |
 |:------------:|:---------------------------------------:|:--------:|
-|     2/28     |        Stakeholder Analysis Due         |          |
-|     3/6      |        Group Roles Contract Due         |          |
+|     4/28     |        Stakeholder Analysis Due         |          |
+|     3/8      |        Group Roles Contract Due         |          |
 |  3/7 or 3/9  |          First Group Check-In           |          |
-|     3/10     |    1-page outline of group appraoch     |          |
-| 3/21 or 3/23 |          Second Group Check-In          |          |
-|  4/4 or 4/6  |          Third Group Check-In           |          |
+|     3/20     |    1-page outline of group appraoch     |          |
+|  4/4 or 4/6  |          Second Group Check-In          |          |
 | 4/18 or 4/20 |          Final Group Check-In           |          |
 |     5/4      | Final Report and Final Presentation Due |          |
 

@@ -23,6 +23,7 @@ website:
       contents:
         - individual.qmd
         - stratton.qmd
+        - group.qmd
         
 format:
   html:

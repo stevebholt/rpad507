@@ -38,7 +38,27 @@ A good approach to doing the background research is to create a list of broad, g
 This section will include subsections for each of the three alternative proposals for dealing with the cuts that were analyzed and considered by your team. Each proposal should be 3-4 pages and should include 1) an overview and justification of the plan, 2) a short overview of the cuts, 3) a stakeholder analysis of those affected, and 4) a timeline and plan for engaging stakeholders. You may use no more than 3 tables, in text, in each proposal subsection. Tables should fit on one page, include a title above them, and be discussed in the text to aid reader understanding and complement the proposal narrative.
 
 :::{.callout-note}
-Each of you has completed an individual assignment that largely reflected the pieces required of the alternative proposals section. Unless all of you have taken the exact same approach in your individual assignments, it is entirely appropriate and encourages for you to adopt an edited, polished, and more concise version of your individual assignment as subsections here. You will want to not only revise for space constraints, but also revise for tone, voice, and narrative flow with the rest of the report. You may also, through discussion with one another, make tweaks to the plan.
+Each of you has completed an individual assignment that largely reflected the pieces required of the alternative proposals section. Unless all of you have taken the exact same approach in your individual assignments, it is entirely appropriate and encouraged for you to adopt an edited, polished, and more concise version of your individual assignment as subsections here. You will want to not only revise for space constraints, but also revise for tone, voice, and narrative flow with the rest of the report. You may also, through discussion with one another, make tweaks to the plan.
 :::
 
-### 
+### Analysis of the Trade-offs and Recommendation
+The final section will be a 3-5 page analysis of the three plans in terms of efficiency, effectiveness, equity, and political impact of each plan leading to your final recommendation. As with the background and related research section, this section should include some research on how to define and measure these dimensions of each plan and anchor your recommendation in how each plan compares on these four dimensions. In the introduction, the goals and priorities driving your management of the parks department (and thereby influencing your budgetary priorities) should have been articulated clearly and will help you gauge each proposed alternative budget plan against those goals and priorities. 
+
+## Roles and Responsibilities
+As with any team project, it is helpful to have clear roles and responsibilities in completing the project. Below is a table of roles and responsibilities that each group will need to assign. Each group should plan on exchanging individual assignments with one another to inform group discussion on which plans (or pieces of plans) should be incorporated as part of the three alternative proposals considered in the assignment. I also highly recommend groups assigning the editing role to who they believe to be a strong writer in the group.
+
+| Role | Responsibility |
+| :----: | :-----: |
+| Introduction, Executive Summary, and Editor | Write the Executive Summary and Introduction. <br/> Suggest edits and revisions to other sections strictly for flow and cohesion. <br/> Edit and provide one of the three proposed plans. |
+| Background and Related Research | Write the background and related research section. <br/> Edit and provide one of the three proposed plans (if relevant). |
+| Analysis and Recommendation | Write the analysis and recommendation section. <br/> Edit and provide one of the three proposed plans (if relevant). |
+| One Proposed Plan | Edit and provide on of the three proposed plans. <br/> Aid with finding and organizing background research for the background and analysis sections. |
+
+:::{.callout-important}
+As there are only 3 alternative plans needed and groups will have 4 members, one person will have their individual plan excluded. The author of the plan from the individual assignments that the group decides is either too similar to other plans or too different from other collectively decided goals or objectives to be included in the full report should take on either the background section or the analysis section. Thus, "(if relevant)" above suggests that one of these roles may not have an alternative budget plan slated for revision and inclusion in the final report. This should never be taken as a suggestion of quality, but instead one of fit.
+:::
+
+Teams should plan to meet to assign roles, sign the [group role contract](contract.pdf), and submit the signed contract on Brightspace by midnight on March 8th.
+
+## Presentation
+Groups should also plan to prepare and video a 15 minute presentation of their final report, alternatives considered, and final recommendation to be posted to Brightspace on May 4th. Detailed instructions will be provided in the coming weeks.
